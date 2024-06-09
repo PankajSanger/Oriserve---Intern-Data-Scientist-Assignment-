@@ -12,7 +12,7 @@ For this task, I used a deep learning-based approach using Long Short-Term Memor
 - LSTM Layers: Stacked LSTM layers to learn sequential patterns in the text data.
 - Dropout Layers: Regularization technique to prevent overfitting by randomly dropping a fraction of input units.
 - Dense Layers: Fully connected layers for classification.
-- 
+  
 ### Motivation
 - Sequence Modeling: LSTMs are well-suited for capturing sequential dependencies in text data, making them effective for sentiment analysis tasks.
 
